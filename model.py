@@ -31,7 +31,7 @@ class MultiHeadAttention(nn.MultiheadAttention):
     Scaled Dot-Product Attention
     """
 
-    def __init__(self, input_size=512, output_size=512, num_heads=8, dropout=0, causal=False, bias=True, add_bias_kv=False, add_zero_attn=False, batch_first=True, groups=None, weight_norm=None):
+    def __init__(self, input_size=256, output_size=256, num_heads=8, dropout=0.1, causal=False, bias=True, add_bias_kv=False, add_zero_attn=False, batch_first=True, groups=None, weight_norm=None):
         super(MultiHeadAttention, self).__init__(input_size, num_heads, dropout=dropout,
                                                  bias=bias, add_bias_kv=add_bias_kv, add_zero_attn=add_zero_attn)
         assert(input_size % num_heads == 0)
@@ -282,10 +282,7 @@ class Decoder(nn.Module):
         #     hparams.attention_dim, hparams.attention_location_n_filters,
         #     hparams.attention_location_kernel_size)
 
-        self.attention_layer = MultiHeadAttention(
-            hparams.attention_rnn_dim, hparams.encoder_embedding_dim,
-            hparams.attention_dim, hparams.attention_location_n_filters,
-            hparams.attention_location_kernel_size)
+        self.attention_layer = MultiHeadAttention()
 
         self.decoder_rnn = nn.LSTMCell(
             hparams.attention_rnn_dim + hparams.encoder_embedding_dim,
