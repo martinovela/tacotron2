@@ -52,7 +52,7 @@ def prepare_dataloaders(hparams):
         train_sampler = None
         shuffle = True
 
-    train_loader = DataLoader(trainset, num_workers=1, shuffle=shuffle,
+    train_loader = DataLoader(trainset, num_workers=0, shuffle=shuffle,
                               sampler=train_sampler,
                               batch_size=hparams.batch_size, pin_memory=False,
                               drop_last=True, collate_fn=collate_fn)
@@ -199,7 +199,7 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
                 learning_rate = _learning_rate
             iteration += 1  # next iteration is iteration + 1
             epoch_offset = max(0, int(iteration / len(train_loader)))
-
+    print(len(train_loader))
     model.train()
     is_overflow = False
     # ================ MAIN TRAINNIG LOOP! ===================
@@ -209,7 +209,6 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
             start = time.perf_counter()
             for param_group in optimizer.param_groups:
                 param_group['lr'] = learning_rate
-
             model.zero_grad()
             x, y = model.parse_batch(batch)
             y_pred = model(x)
