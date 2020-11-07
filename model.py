@@ -26,7 +26,29 @@ class LocationLayer(nn.Module):
         return processed_attention
 
 
-class MultiHeadAttention(nn.MultiheadAttention):
+# A clean implementation of multihead attention in pytorch.
+class MultiHeadAttention(nn.Module):
+    def __init__(self, input_size=256, heads=8, dimension=128):
+        super(multihead, self).__init__()
+        self.h, self.d = heads, dimension
+        self.lq = nn.Linear(input_size, self.h * self.d)
+        self.lk = nn.Linear(input_size, self.h * self.d)
+        self.lv = nn.Linear(input_size, self.h * self.d)
+        self.fc = nn.Linear(self.h * self.d, self.d)
+
+    def forward(self, q, k, v):
+        b, n_q, n_k, h, d = q.size(0), q.size(1), k.size(1), self.h, self.d
+
+        q, k, v = self.lq(q), self.lk(k), self.lv(v)                    # b, n_*, h*d
+        _q, _k, _v = map(lambda x: x.reshape(b, -1, h, d), [q, k, v])   # b, n_*, h, d
+        qk = torch.einsum('bnhd,bmhd->bhnm', (q,k))                     # b, h, n_q, n_k
+        att = F.softmax(qk / (self.d ** .5), dim=3)                     # b, h, n_q, n_k
+        att_out = torch.einsum('bhnm,bmhd->bnhd', (att,v))              # b, n_q, h, d
+        att_out = att_out.reshape(b, -1, h*d)                           # b, n_q, h*d
+        out = self.fc(att_out)                                          # b, n_q, d
+
+
+class MultiHeadAttention2(nn.MultiheadAttention):
     """
     Scaled Dot-Product Attention
     """
