@@ -2,17 +2,17 @@ pc/0/marah/test/fix0-pc_11.179.wav|apa namanya lingkup pribadi kita juga kegangg
 pc/0/marah/test/fix0-pc_11.187.wav|bahkan bilang nggak tau ya maksudnya kalau nggak yakin ya
 pc/0/marah/test/fix0-pc_13_f.349.wav|dia itu hanya membela diri
 pc/0/marah/test/fix0-pc_14.37.wav|keluarga korban ini juga harus di
-pc/0/marah/test/fix0-pc_14.122.wav|sampe jam tiga sore 
+pc/0/marah/test/fix0-pc_14.122.wav|sampe jam tiga sore
 pc/0/marah/test/fix0-pc_14.123.wav|bayangin nggak situ jam tujuh sampai jam tiga sore
 pc/0/marah/test/fix0-pc_14.124.wav|pulang dari jam tiga sore
-pc/0/marah/train/fix0-pc_1.64.wav|lah cuci tangan tinggal cuci tangan 
+pc/0/marah/train/fix0-pc_1.64.wav|lah cuci tangan tinggal cuci tangan
 pc/0/marah/train/fix0-pc_1.88.wav|okelah
-pc/0/marah/train/fix0-pc_1.92.wav|gua langsung edukasi bahwa 
+pc/0/marah/train/fix0-pc_1.92.wav|gua langsung edukasi bahwa
 pc/0/marah/train/fix0-pc_1.130.wav|ini jujur mengecewakan
-pc/0/marah/train/fix0-pc_1.140.wav|kalo wilayahnya 
+pc/0/marah/train/fix0-pc_1.140.wav|kalo wilayahnya
 pc/0/marah/train/fix0-pc_1.143.wav|kesiapan tenaga militer loh kok militer penting
 pc/0/marah/train/fix0-pc_1.145.wav|pembatasan wilayah
-pc/0/marah/train/fix0-pc_1.148.wav|yang jadi masalah adalah 
+pc/0/marah/train/fix0-pc_1.148.wav|yang jadi masalah adalah
 pc/0/marah/train/fix0-pc_1.196.wav|jika ada opsi pembatasan wilayah pemerintah tuh harus mengumpulkan
 pc/0/marah/train/fix0-pc_1.211.wav|gua langsung okelah bodo amat
 pc/0/marah/train/fix0-pc_1.216.wav|ketika orang gua udah mencoba harapan gua adalah kalo
@@ -73,7 +73,7 @@ pc/1/netral/test/yurianto_8_.1.wav|jadi bisa saja menjadi berubah sehingga kemud
 pc/1/netral/test/yurianto_8_.2.wav|sebaran yang ada dari wuhan itu kan variasinya macem macem
 pc/1/netral/test/yurianto_8_.3.wav|ada yang warnanya kemudian ditandai dengan warna orange warna ungu warna hij
 pc/1/netral/test/yurianto_8_.4.wav|jau dan kemudian menggambarkan bahwa ini lebih
-pc/1/netral/test/yurianto_9_.1.wav|artinya masalah ini kan bukan kemudian 
+pc/1/netral/test/yurianto_9_.1.wav|artinya masalah ini kan bukan kemudian
 pc/1/netral/test/yurianto_11_.2.wav|hanya memang ini kayak di itali yang saya dengar adalah bahwa
 pc/1/netral/test/yurianto_12_.2.wav|maka mereka cepet cepet keluar karena mereka aslinya tidak dari kota itu
 pc/1/netral/test/yurianto_14_.2.wav|negara kukus kepulauan kemudian yang kedua
@@ -98,34 +98,34 @@ pc/1/netral/test/yurianto_24_1.wav|kita tau di beberapa negara muslim seperti di
 pc/1/netral/train/anies_3_.1.wav|jadi transparansi siapa positif
 pc/1/netral/train/seto_3_.1.wav|kalo nggak salah hanya dua yang tidak atau belum
 pc/1/netral/train/seto_3_.2.wav|pertama adalah somalia kedua adalah amerika serikat
-pc/1/netral/train/seto_4_.1.wav|harusnya juga sopan disiplin dan sebagainya, tapi juga kreatif
+pc/1/netral/train/seto_4_.1.wav|harusnya juga sopan disiplin dan sebagainya tapi juga kreatif
 pc/1/netral/train/seto_5_.1.wav|artinya apaa anak-anak juga diajak berdiskusi
-pc/1/netral/train/seto_5_.2.wav|juga diperingatkan kalo salah juga nggak kenapaa tapi caranya mengingatkan tidak dengan cara kekerasan 
+pc/1/netral/train/seto_5_.2.wav|juga diperingatkan kalo salah juga nggak kenapaa tapi caranya mengingatkan tidak dengan cara kekerasan
 pc/1/netral/train/seto_6_.1.wav|dari anak-anak yang pada dasarnya hebat kreatif
-pc/1/netral/train/seto_7_.1.wav|dan itu saling melengkapi saling menyempurnakan, dan bisa juga saling mengganti
+pc/1/netral/train/seto_7_.1.wav|dan itu saling melengkapi saling menyempurnakan dan bisa juga saling mengganti
 pc/1/netral/train/seto_7_.2.wav|jadi anak yang tidak cocok dengan jalur pendidikan formal
 pc/1/netral/train/seto_7_.3.wav|yang wahh harusssss pinter matematika pinter ini harus semuanya dikuasai misalnya
 pc/1/netral/train/seto_7_.6.wav|sehingga sekarang inii begituu kami juga
 pc/1/netral/train/seto_8_1.wav|saya mendirikan sekolah formal dari TK yang kemudian sampe SMA itu
-pc/1/netral/train/seto_10_.1.wav|boleh ayok boleh, yuk kita belajar sendiri
+pc/1/netral/train/seto_10_.1.wav|boleh ayok boleh yuk kita belajar sendiri
 pc/1/netral/train/seto_12_.1.wav|temen ujianku bukan temen seusia aku
 pc/1/netral/train/seto_15_.1.wav|dan bahkan diterima di sebuah perguruan tinggi di malaysia waktu itu
 pc/1/netral/train/seto_15_.2.wav|dan sejak itu dia mulai merintis mendirikan
 pc/1/netral/train/seto_17_1.wav|diterima di kedokteran itu ada di FKUI UGM
 pc/1/netral/train/seto_18_1.wav|kemudian diterima ITB ada IPB ada beberapa perguruan tinggi swasta
 pc/1/netral/train/seto_19_1.wav|itu yang hanya tiga kali seminggu per hariannya tiga jam
-pc/1/senang/test/luna_6_.2.wav|haha sebenarnya sama sama main film gitu 
-pc/1/netral/train/seto_20_1.wav|kelompok, kelompok yang memang untuk yang menengah keatas
+pc/1/senang/test/luna_6_.2.wav|haha sebenarnya sama sama main film gitu
+pc/1/netral/train/seto_20_1.wav|kelompok kelompok yang memang untuk yang menengah keatas
 pc/1/netral/train/seto_22_.2.wav|itu setiap hari jum’at setiap anak boleh menunjukkan kebolehannya
 pc/1/netral/train/seto_23_.1.wav|yang pintar teater yang pintar membuat puisi
-pc/1/netral/train/seto_26_.3.wav|tapi pernah waktu satu masih sekolah, dia masih bertahan, nggak sekolahnya bagus
-pc/1/netral/train/seto_26_.4.wav|aku diajar logikaa diajar untuk, bisa ada, ada disiplin, juga ada
+pc/1/netral/train/seto_26_.3.wav|tapi pernah waktu satu masih sekolah dia masih bertahan nggak sekolahnya bagus
+pc/1/netral/train/seto_26_.4.wav|aku diajar logikaa diajar untuk bisa ada ada disiplin juga ada
 ts/0/marah/train/fix0-ts_2_f.112.wav|apa yang paling aneh yang paling anda dengar hoaks ini
-pc/1/netral/train/seto_26_.6.wav|artinya gini, kita memang harus melihat semua itu secara lebih utuh
+pc/1/netral/train/seto_26_.6.wav|artinya gini kita memang harus melihat semua itu secara lebih utuh
 pc/1/netral/train/seto_28_.1.wav|apa ya mengembangkan potensi di bidang lain itu dia bersosialisasi
 pc/1/senang/train/fix1-pc_1.224.wav|itu sebenarnya solusi yang paling mungkin dilakuin dan akhirnya
 pc/1/senang/train/fix1-pc_2.375.wav|ini kesempatan tadi bangun hubungan interaksi dan
-pc/1/senang/train/fix1-pc_3_f.412.wav|oke nih aku seneng nih ngobrol ama dia sebetulnya nih ya 
+pc/1/senang/train/fix1-pc_3_f.412.wav|oke nih aku seneng nih ngobrol ama dia sebetulnya nih ya
 pc/1/senang/train/fix1-pc_8_f.80.wav|kenalan yuk ama si virus ini yuk kita kenalan sama si virus corona eh kamu sifatnya gimana sih gi
 pc/1/senang/train/fix1marchella_2_.2.wav|terus apalagi mas maksudnya manfaat manfaatnya tu apalagi sih aku pengen tahu lebih banyak sih
 pc/1/senang/train/marchella_4_.1.wav|ya kebetulan nggak tapi
@@ -136,7 +136,7 @@ pc/1/senang/train/fix1pandji_5_1.wav|saat sekalipun dalam hidup gua nggak pernah
 pc/1/senang/train/pandji_7_.3.wav|gua lagi ngomong ke samping padahal wah pas naik itu abis gua
 pc/1/senang/train/pandji_13_.3.wav|sudah tau itu cuma masalahnya masih banyak yang tersinggung untuk lu karena dia merasa
 pc/1/senang/train/pandji_14_.3.wav|sebelum ada sosmed susah untuk orang mau ngomongin mungkin
-pc/1/senang/train/pandji_15_.2.wav|hehehe kecuali istri gua ama anak anak gue 
+pc/1/senang/train/pandji_15_.2.wav|hehehe kecuali istri gua ama anak anak gue
 pc/1/senang/train/pandji_16_.2.wav|adalah karena sosial media membantu lu lebih pede untuk jadi diri lu sendiri
 pc/1/senang/train/seto_4_.2.wav|artinya perlu dengan ide ide cemerlang karena apa sistem pendidikannya tepat
 pc/1/senang/train/seto_11_1.wav|begitu pulang dia bilang asik deh ayah bunda
@@ -147,7 +147,7 @@ ts/0/marah/test/fix0-ts_1_m.285.wav|jadi kalau belajar hukum acara pidana dengan
 pc/1/netral/train/fix1-pc_4.12.wav|jadi pak jokowi ini harusnya dikelilingi orang-orang yang ahli di bidangnya
 pc/1/netral/train/fix1-pc_1.169.wav|jadi abaikan kata lockdown tapi kita buat istilah baru pembatasan wilayah
 pc/1/netral/test/yurianto_14_.3.wav|juga apakah kemudian mampu kita meyakini bahwa daerah yang di lockdown tu mampu mandiri
-pc/1/netral/train/fix1-pc_8_f.306.wav|potongan potongan berita yang mungkin kita fikir hoaks ternyata semuanya ada sisipan 
+pc/1/netral/train/fix1-pc_8_f.306.wav|potongan potongan berita yang mungkin kita fikir hoaks ternyata semuanya ada sisipan
 pc/1/netral/train/fix1-pc_3_f.300.wav|udah kenal sama tukang laundrynya tukang laundry nya nanya dok dokter di rumah sakit yaa kerja persahabatan iyaa
 pc/1/netral/train/erlina_3_1.wav|ya kan selalu disampaikan walau anda sudah sembuh
 ts/0/marah/train/fix0-ts_1_f.141.wav|sampai aparat penegak hukum bertindak sewenang wenang
@@ -171,9 +171,9 @@ ts/0/marah/train/fix0-ts_1_m.187.wav|januari dua ribu enam belas mereka terpilih
 ts/0/marah/train/fix0-ts_1_m.265.wav|dalam kontes hukum formil
 ts/0/marah/train/fix0-ts_1_m.268.wav|materi nya apa tindak pidana korupsi
 ts/0/marah/train/fix0-ts_1_m.269.wav|mas haris harus pasti tahu
-ts/0/netral/test/fix0-ts_5_m.312.wav|sudah disahkan tinggal menunggu secara administratif 
-ts/0/netral/test/fix0-ts_5_m.313.wav|untuk menunggu tanggal tujuh belas oktober 
-ts/0/netral/test/fix0-ts_5_m.315.wav|ada pembuat undang undang 
+ts/0/netral/test/fix0-ts_5_m.312.wav|sudah disahkan tinggal menunggu secara administratif
+ts/0/netral/test/fix0-ts_5_m.313.wav|untuk menunggu tanggal tujuh belas oktober
+ts/0/netral/test/fix0-ts_5_m.315.wav|ada pembuat undang undang
 ts/0/netral/test/fix0-ts_5_m.318.wav|dalam survei di lakukan itu
 ts/0/netral/test/fix0-ts_5_m.324.wav|itu antara lain misalnya penyadapan tidak perlu
 ts/0/netral/test/fix0-ts_5_m.325.wav|ijin
@@ -181,23 +181,23 @@ ts/0/netral/test/fix0-ts_5_m.335.wav|tapi kita juga harus katakan
 ts/0/netral/test/fix0-ts_5_m.338.wav|tapi kepada lembaga yang berwenang untuk itu
 ts/0/netral/test/fix0-ts_5_m.393.wav|pertama pelantikan presiden belum terjadi
 ts/0/netral/test/fix0-ts_5_m.397.wav|kalok kalo
-ts/0/netral/test/fix0-ts_5_m.401.wav|katanya tanggal tujuh belas sebelum pelantikan 
+ts/0/netral/test/fix0-ts_5_m.401.wav|katanya tanggal tujuh belas sebelum pelantikan
 ts/0/netral/test/fix0-ts_5_m.402.wav|atau setelah pelantikan
-ts/0/netral/test/fix0-ts_5_m.409.wav|indonesia menghadapi persoalan korupsi 
+ts/0/netral/test/fix0-ts_5_m.409.wav|indonesia menghadapi persoalan korupsi
 ts/0/netral/test/fix0-ts_5_m.410.wav|lantas
 ts/0/netral/test/fix0-ts_5_m.412.wav|terbukti kpk berhasil
 ts/0/netral/test/fix0-ts_5_m.413.wav|banyak
 ts/0/netral/test/fix0-ts_5_m.426.wav|jawab dengan simpel kenapa perpu
-ts/0/netral/test/fix0-ts_5_m.430.wav|jangan sampai terjebak ya dengan 
+ts/0/netral/test/fix0-ts_5_m.430.wav|jangan sampai terjebak ya dengan
 ts/0/netral/test/fix0-ts_5_m.432.wav|kenapa
 ts/0/netral/test/fix0-ts_5_m.433.wav|karena konsekuensi yuridis sangat besar
-ts/0/netral/train/fix0-ts_1_f.30.wav|tu kita betul betul berdiskusi 
-ts/0/netral/train/fix0-ts_1_f.31.wav|pada pukul sebelas kita mulai melaksanakan lomba 
+ts/0/netral/train/fix0-ts_1_f.30.wav|tu kita betul betul berdiskusi
+ts/0/netral/train/fix0-ts_1_f.31.wav|pada pukul sebelas kita mulai melaksanakan lomba
 ts/0/netral/train/fix0-ts_1_f.35.wav|na dari kawan kawan mungkin total sekitaran
 ts/0/netral/train/fix0-ts_1_f.39.wav|dari bapak
 ts/0/netral/train/fix0-ts_1_f.49.wav|sempat ada pertemuan itu
 ts/0/netral/train/fix0-ts_1_f.75.wav|tapi ada tapinya
-ts/0/netral/train/fix0-ts_1_f.99.wav|upasaria semuanya tidak ada yang mengatakan 
+ts/0/netral/train/fix0-ts_1_f.99.wav|upasaria semuanya tidak ada yang mengatakan
 ts/0/netral/train/fix0-ts_1_f.111.wav|penataan yang jelas tentang aparatur
 ts/0/netral/train/fix0-ts_4_m.183.wav|jadi begini
 ts/0/netral/train/fix0-ts_4_m.185.wav|di laut itu
@@ -208,7 +208,7 @@ ts/0/netral/train/fix0-ts_5_m.29.wav|diksi hukum ada konsekuensi hukum pula
 ts/0/netral/train/fix0-ts_5_m.33.wav|diksi perpu diatur dalam pasal dua puluh dua ayat satu
 ts/0/netral/train/fix0-ts_5_m.34.wav|dalam hal ihwal kegentingan yang memaksa
 ts/0/netral/train/fix0-ts_5_m.51.wav|yang mendesak desak itu partai politik mbak na
-ts/0/netral/train/fix0-ts_5_m.54.wav|kita malah menjelaskan kepada presiden                   
+ts/0/netral/train/fix0-ts_5_m.54.wav|kita malah menjelaskan kepada presiden                  
 ts/0/netral/train/fix0-ts_5_m.55.wav|pak presiden
 ts/1/netral/train/fix1-ts_1_m.36.wav|dapat dengar pendapat ada kunjungan ke kampus dan sebagainya
 ts/1/netral/train/fix1-ts_1_m.39.wav|konten yang harus diterima nanti menjadi bagian dari rumusan undang undang
@@ -251,6 +251,6 @@ ts/1/netral/train/terawan_1_.1.wav|nah kemudian sudah dikeluarkan dari sana data
 ts/1/netral/train/terawan_1_.2.wav|kita sebenarnya sudah yakin ini sehat tetap tidak bisa kita tetap harus
 ts/1/netral/train/terawan_2_.1.wav|ya tanggung jawab saya bukan masalah berkantor tetapi
 ts/1/netral/train/terawan_2_.2.wav|untuk terus mengevaluasi dari hari ke hari
-ts/0/netral/train/fix0-ts_1_m.17.wav|tidak ada pertemuan 
+ts/0/netral/train/fix0-ts_1_m.17.wav|tidak ada pertemuan
 ts/0/netral/train/fix0-ts_1_m.20.wav|adalah diatas mobil komando
-ts/0/netral/train/fix0-ts_1_m.27.wav|partainya banyak ya 
+ts/0/netral/train/fix0-ts_1_m.27.wav|partainya banyak ya

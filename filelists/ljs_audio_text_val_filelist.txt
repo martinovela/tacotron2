@@ -15,7 +15,7 @@ pc/1/netral/train/pandji_15_.1.wav|ituuuu itu sebuah ranah yang gua sangat hinda
 pc/1/netral/train/pandji_17_.1.wav|dengan elu memfollow orang yang lu percaya dan nggak memfollow orang yang lu suka
 pc/1/netral/train/pandji_17_.2.wav|lu mengelilingi diri lu dengan semacam echo chamber gitu
 pc/1/netral/train/pandji_18_.1.wav|jadi semu benarnya karena lu cuman mau berteman sama orang yang sepikiran dan se selera sama lu gitu
-pc/1/netral/train/pandji_18_.2.wav|dan dengan itu identitas lu makin kuat anggaplah gini misalnya misalnyaa 
+pc/1/netral/train/pandji_18_.2.wav|dan dengan itu identitas lu makin kuat anggaplah gini misalnya misalnyaa
 pc/1/netral/train/raditya_1_.1.wav|jadi kalo aku mengendorse seseorang ini juga kenapa aku nggak
 pc/1/netral/train/raditya_2_1.wav|kalo aku mengendorse sesuatu ngomong sesuatu walaupun itu tidak dibayar apa segala macam tapi keyakinan dari hati
 pc/1/netral/train/raditya_3_.2.wav|tapi dengan ada dipp ya itu bener itu satu tapi dengan adanya di platform itu
@@ -57,32 +57,32 @@ pc/0/senang/train/fix0-pc_5.141.wav|mari kita kompensasi
 pc/0/senang/train/fix0-pc_5.249.wav|supaya indonesia maju
 pc/1/sedih/train/fadlizon_1_.3.wav|nah kita ni termasuk yang menurut saya maaf kata ya agak amatiran gitu ya
 pc/1/sedih/train/fadlizon_1_.4.wav|karena kita membuang buang waktu yang begitu panjang
-pc/1/sedih/train/fadlizon_4_1.wav|kalau di jakarta tidak ada pekerjaan atau di jabodetabek tidak ada pekerjaan 
+pc/1/sedih/train/fadlizon_4_1.wav|kalau di jakarta tidak ada pekerjaan atau di jabodetabek tidak ada pekerjaan
 pc/1/sedih/train/fadlizon_7_.1.wav|rakyat indonesia dan seluruh tumpah darah indonesia itu yang paling penting
 pc/1/sedih/train/fadlizon_10_.2.wav|betul betul melemah ini melemah harusnya presiden mengumpulkan
 pc/1/sedih/train/fadlizon_12_.2.wav|tisi partai politik itu pasti bagaimana menyelesaikan ini
-pc/1/sedih/train/fadlizon_15_.1.wav|akhirnya selalu negatif misalnya di suruh bayar 
+pc/1/sedih/train/fadlizon_15_.1.wav|akhirnya selalu negatif misalnya di suruh bayar
 pc/1/sedih/train/fadlizon_ts_8_.1.wav|karena kalau ini dilewati saya kira akan terus berulang mungkin di wilayah wilayah lain
 pc/1/sedih/train/fix1-pc_1.115.wav|itu yang langsung prevensi karena banyak dokter yang ketularan ini sama perawat
 pc/1/sedih/train/fix1-pc_2.20.wav|yang kita berhadapan dengan informasi yang minimum
 pc/1/sedih/train/fix1-pc_2.29.wav|dan kami lakukan selama ini percaya pada sains
 pc/1/sedih/train/fix1-pc_2.47.wav|itu pandemik global juga itu kira kira dua tahun
-pc/1/sedih/train/fix1-pc_2.52.wav|tahun itu sembilan belas delapan belas sembilan belas dua puluh 
+pc/1/sedih/train/fix1-pc_2.52.wav|tahun itu sembilan belas delapan belas sembilan belas dua puluh
 pc/1/sedih/train/fix1-pc_2.63.wav|kita harus bisa mencegah dan pada waktu itu
 pc/1/sedih/train/fix1-pc_2.88.wav|itu itu dilema yang kita hadapi jadi begini
 pc/1/sedih/train/fix1-pc_2.93.wav|ya pada mereka kita akan siapkan dan sudah dalam proses
 pc/1/sedih/train/fix1-pc_2.142.wav|saya sampai kita sampai pelajari serius kok kejadian di sana itu
-pc/1/sedih/train/fix1-pc_2.144.wav|jadi ketika kita putuskan untuk 
+pc/1/sedih/train/fix1-pc_2.144.wav|jadi ketika kita putuskan untuk
 pc/1/sedih/train/fix1-pc_2.196.wav|ya justru itulah gimana keseriusan itu penting sekarang
-pc/1/sedih/train/fix1-pc_2.199.wav|tak ada ini kan justru ini harus dilakukan untuk bisa 
-pc/1/sedih/train/fix1-pc_2.275.wav|ya korban jiwanya sudah ada 
+pc/1/sedih/train/fix1-pc_2.199.wav|tak ada ini kan justru ini harus dilakukan untuk bisa
+pc/1/sedih/train/fix1-pc_2.275.wav|ya korban jiwanya sudah ada
 pc/1/sedih/train/fix1-pc_2.326.wav|yang sebenarnya kalau kita refleksi ya
 pc/1/sedih/train/fix1-pc_2.351.wav|tapi buat buat kita semua yang pasti yang tinggal di rumah yang sama keluarga
 pc/1/sedih/train/fix1-pc_2.354.wav|percakapan antar generasi dalam rumah tangga
 pc/1/sedih/train/fix1-pc_3_f.35.wav|kalau jumlahnya nggak cukup banyak mungkin nggak akan keluar gitu ya
 pc/1/sedih/train/fix1-pc_3_f.72.wav|nah itu dia kalau walaupun itu terpaksa terjadi ya
 pc/1/sedih/train/fix1-pc_3_f.79.wav|masker kain itu bukan melindungi diri sendiri loh
-pc/1/sedih/train/fix1-pc_3_f.153.wav|tentu itu tadi mas dedi bilang masih orang berkeliaran nggak pakai masker lagi nya 
+pc/1/sedih/train/fix1-pc_3_f.153.wav|tentu itu tadi mas dedi bilang masih orang berkeliaran nggak pakai masker lagi nya
 pc/1/sedih/train/fix1-pc_3_f.154.wav|nah itu bagaimana ya cara supaya membuat mereka sadar
 pc/1/sedih/train/fix1-pc_3_f.179.wav|kalau masyarakat tidak disiplin dan tidak mau
 pc/1/sedih/train/fix1-pc_3_f.193.wav|ya mudah mudahan ini semacam cobaan supaya kita lebih baik lagi
@@ -128,18 +128,18 @@ ts/0/netral/test/fix0-ts_3_m.359.wav|bisa
 ts/0/netral/test/fix0-ts_4_m.194.wav|intinya begini
 ts/0/netral/test/fix0-ts_4_m.195.wav|intinya bahwa
 ts/0/netral/test/fix0-ts_4_m.200.wav|tetapi dari pihak mereka mengakui
-ts/0/netral/test/fix0-ts_4_m.204.wav|dijalankan dengan sebaik baiknya 
+ts/0/netral/test/fix0-ts_4_m.204.wav|dijalankan dengan sebaik baiknya
 ts/0/netral/test/fix0-ts_4_m.209.wav|tetapi kalau memang tidak bisa apa boleh buat kan begitu
 ts/0/netral/test/fix0-ts_4_m.210.wav|kan ada dari panglima tadi
-ts/0/netral/test/fix0-ts_4_m.282.wav|kita giring dia ke utara tapi dia tetap ndak mau 
-ts/0/netral/test/fix0-ts_4_m.285.wav|kita pakai keris 
+ts/0/netral/test/fix0-ts_4_m.282.wav|kita giring dia ke utara tapi dia tetap ndak mau
+ts/0/netral/test/fix0-ts_4_m.285.wav|kita pakai keris
 ts/0/netral/test/fix0-ts_4_m.293.wav|cina dengan amerika dia bilang
 ts/0/netral/test/fix0-ts_4_m.397.wav|ya menurut saya ini kita harus cara
 ts/0/netral/test/fix0-ts_4_m.422.wav|punya berapa pak kapalnya
 ts/0/netral/test/fix0-ts_4_m.476.wav|dalam hal kedaulatan itu dulu yang pertama
 ts/0/netral/test/fix0-ts_4_m.479.wav|tadi sudah disampaikan oleh pak mahfud
 ts/0/netral/test/fix0-ts_4_m.481.wav|jangan sampai wilayah itu kosong
-ts/0/netral/test/fix0-ts_4_m.483.wav|agar apa agar 
+ts/0/netral/test/fix0-ts_4_m.483.wav|agar apa agar
 ts/0/netral/test/fix0-ts_4_m.487.wav|test yang sangat penting
 ts/0/netral/test/fix0-ts_5_m.28.wav|bicara perpu itu kan diksinya diksi hukum
 ts/0/netral/test/fix0-ts_5_m.94.wav|isi dari ruu kpk
@@ -154,14 +154,14 @@ ts/0/netral/test/fix0-ts_5_m.103.wav|berani berbuat
 ts/0/netral/test/fix0-ts_5_m.104.wav|karena itu
 ts/0/netral/test/fix0-ts_5_m.106.wav|kami anggap
 ts/0/netral/test/fix0-ts_5_m.109.wav|presiden
-ts/1/marah/train/supratman_8_1.wav|tiga termasuk juga waktu saya di baleg saya mengundang komisioner untuk membahas undang-undang penyadapan 
+ts/1/marah/train/supratman_8_1.wav|tiga termasuk juga waktu saya di baleg saya mengundang komisioner untuk membahas undang-undang penyadapan
 ts/1/marah/train/supratman_10_.1.wav|bukan saya supaya kita publik juga tahu
 ts/1/sedih/test/fix1-ts_4_m.81.wav|harapan saya tu kalau bisa di natu natu ditambahkanlah
 ts/1/sedih/test/syahrizal_7_.2.wav|natuna itu sebetulnya kategorinya saya bilang tadi itu adalah
 ts/1/sedih/train/arsulsani_3_.1.wav|pimpinan kpk menjawab pertanyaan komisi tiga
 ts/1/sedih/train/fix1-ts_1_f.37.wav|disitu sayangnya kita tidak langsung bertemu dengan anggota legislatif namun kita dipertemukan dengan
 ts/1/sedih/train/fix1-ts_2_f.193.wav|kalau kita lihat disini pak menteri indonesia terhimpit
-ts/1/sedih/train/fix1-ts_4_m.66.wav|saya pernahnya dikejar sama nelayan vietnam ada juga 
+ts/1/sedih/train/fix1-ts_4_m.66.wav|saya pernahnya dikejar sama nelayan vietnam ada juga
 ts/1/sedih/train/haris_4_.2.wav|kita lihat juga wartawan yang tidak boleh meliput tidak boleh mengambil gambar
 ts/1/sedih/train/terawan_6_.2.wav|daratan cina yah natuna ndak ada lagi kalau ndak kita akan kemana
 ts/1/sedih/train/terawan_7_.1.wav|kalau nanti komplek militernya di halim juga malah bermasalah
@@ -172,37 +172,37 @@ ts/1/netral/test/arsulsani_5_.2.wav|Pak Agus Pak Laode Pak Saut Pak Alex Marwata
 ts/1/netral/test/arsulsani_6_1.wav|Pemerintah dan DPR sepakat untuk menunda bu
 ts/1/netral/test/emilsalim_5_.1.wav|Jadi dalam kaitan itu kita ingin
 ts/1/netral/test/fahrihamzah_6_.2.wav|Presiden dikasih tenaga oleh rakyat okay dia bisa
-ts/1/netral/test/feriamsari_6_.2.wav|Ada baiknya DPR juga mempertimbangkan membahas 
+ts/1/netral/test/feriamsari_6_.2.wav|Ada baiknya DPR juga mempertimbangkan membahas
 ts/1/netral/test/fix1-ts_2_m.236.wav|Jadi memang kita menyiapkan seratus rumah sakit yang dulu sudah disiapkan untuk
 ts/1/netral/test/fix1-ts_2_m.238.wav|Nah disitu memang ada yang paling penting adalah komponen tempat tempat isolasi
 ts/1/netral/test/fix1-ts_2_m.243.wav|Sendiri ya paling penting ya imunitas tubuhnya harus dijaga
 ts/1/netral/test/fix1-ts_3_m.302.wav|Miliknya guru milik sekolah silahkan diluluskan silahkan dibuat soalnya
-ts/1/netral/test/fix1-ts_3_m.303.wav|Dan guru harus mampu membuat soal nah ini berbeda 
+ts/1/netral/test/fix1-ts_3_m.303.wav|Dan guru harus mampu membuat soal nah ini berbeda
 ts/1/netral/test/fix1-ts_3_m.309.wav|Mapel pilihan ganda itu gampang sekali di bimbel
 ts/1/netral/test/fix1-ts_4_m.480.wav|Berikutnya bagaimana pembedahan para nelayan ini untuk mengisi kekosongan
-ts/1/netral/test/fix1-ts_4_m.482.wav|Berikutnya yang ketiga adalah eksploitasi sumber daya alam yang ada disana untuk segera dilakukan 
-ts/1/netral/test/fix1-ts_5_m.405.wav|Yang sekarang,misalnya kesannya tidak ingin ada PERPU misalnya
+ts/1/netral/test/fix1-ts_4_m.482.wav|Berikutnya yang ketiga adalah eksploitasi sumber daya alam yang ada disana untuk segera dilakukan
+ts/1/netral/test/fix1-ts_5_m.405.wav|Yang sekarangmisalnya kesannya tidak ingin ada PERPU misalnya
 ts/1/netral/test/fix1-ts_5_m.431.wav|Pendapat pendapat seperti layaknya ahli yang saya katakan ini bukan ahli
 ts/1/netral/test/fix1-ts_5_m.434.wav|Ya saya katakan tadi revisi undang undang ini belum dinomorkan belum diundang undangkan
 ts/1/netral/test/fix1-ts_5_m.435.wav|Nikmatin ya sampai terbukti memang ada hal ihwal keadaan memaksanya hadir
-ts/1/netral/test/fix1-ts_5_m.476.wav|Tapi saya ingin pertama untuk mengoreksi apa yang disampaikan  
-ts/1/netral/test/fix1-ts_5_m.485.wav|Kesalahan kesalahan dalam pembentukan revisi undang-undang ini, Ingat 
-ts/1/netral/test/haris_7_.2.wav|Itu salah satu alternatif pilihan lainnya apa, ya membuat undang undang yang baru
-ts/1/netral/test/haris_7_.3.wav|Kenapa, karena syarat PERPPU nya keadaan genting bukan darurat
-ts/1/netral/test/haris_7_.4.wav|Bahasa di konstitusinya keadaan genting nya itu harus terpenuhi 
-ts/1/netral/test/jayad_10_.2.wav|Tapi di awal masa DPR yang baru, Oktober ini
+ts/1/netral/test/fix1-ts_5_m.476.wav|Tapi saya ingin pertama untuk mengoreksi apa yang disampaikan 
+ts/1/netral/test/fix1-ts_5_m.485.wav|Kesalahan kesalahan dalam pembentukan revisi undang-undang ini Ingat
+ts/1/netral/test/haris_7_.2.wav|Itu salah satu alternatif pilihan lainnya apa ya membuat undang undang yang baru
+ts/1/netral/test/haris_7_.3.wav|Kenapa karena syarat PERPPU nya keadaan genting bukan darurat
+ts/1/netral/test/haris_7_.4.wav|Bahasa di konstitusinya keadaan genting nya itu harus terpenuhi
+ts/1/netral/test/jayad_10_.2.wav|Tapi di awal masa DPR yang baru Oktober ini
 ts/1/netral/test/jayad_11_.2.wav|Itu ya cuman kalau kita bandingkan data tentang DPR nya
-ts/1/netral/test/moeldoko4_5_.1.wav|Hah yang kedua momentum ini harus digunakan sebaik baiknya untuk melihat lagi 
-ts/1/netral/test/royyan_5_.1.wav|Tau nggak jadi sebetulnya begini dari kami kami 
+ts/1/netral/test/moeldoko4_5_.1.wav|Hah yang kedua momentum ini harus digunakan sebaik baiknya untuk melihat lagi
+ts/1/netral/test/royyan_5_.1.wav|Tau nggak jadi sebetulnya begini dari kami kami
 ts/1/netral/test/royyan_5_.2.wav|Sudah menyampaikan diatas mobil komando waktu itu dari korlapnya menyampaikan
 ts/1/netral/test/sudewo_6_.2.wav|Tidak hanya hafalan tetapi penalaran
 ts/1/netral/test/sudewo_7_.2.wav|Disampaikan oleh pak menteri ketika raker dengan komisi sepuluh DPR RI
-ts/1/netral/test/supratman_9_.1.wav|Poin mana didalam revisi itu yang dianggap melemahkan 
-ts/1/netral/test/supratman_9_.2.wav|Sehingga publik tau tidak sekedar ditanya ini melemahkan atau tidak 
-ts/1/netral/test/supratman_10_.2.wav|Apakah memang pengetahuan soal orang tidak setuju tentang revisi ini 
-ts/1/netral/test/syahrizal_11_.1.wav|Dan empat puluh empat persen pasal saya itu 
+ts/1/netral/test/supratman_9_.1.wav|Poin mana didalam revisi itu yang dianggap melemahkan
+ts/1/netral/test/supratman_9_.2.wav|Sehingga publik tau tidak sekedar ditanya ini melemahkan atau tidak
+ts/1/netral/test/supratman_10_.2.wav|Apakah memang pengetahuan soal orang tidak setuju tentang revisi ini
+ts/1/netral/test/syahrizal_11_.1.wav|Dan empat puluh empat persen pasal saya itu
 ts/1/netral/train/fix1-ts_2_m.171.wav|observasi kita cek bahkan dari hari ke hari tadi
-ts/1/netral/train/fix1-ts_2_m.178.wav|ada dokter penyakit dalam yang nempel dua puluh empat jam karena 
+ts/1/netral/train/fix1-ts_2_m.178.wav|ada dokter penyakit dalam yang nempel dua puluh empat jam karena
 ts/1/netral/train/fix1-ts_2_m.180.wav|dirinya sendiri dalam empat belas hari dia juga ikut di observasi
 ts/1/netral/train/fix1-ts_2_m.182.wav|istilah nya dalam kata itu oh ee sosial konteks
 ts/1/netral/train/fix1-ts_2_m.183.wav|secara sosia mereka pernah berada di sebuah daerah yang ada kasus konfirmasi
@@ -213,15 +213,15 @@ pc/0/senang/train/fix0-pc_9.13.wav|handphone ga bagus loh medianya ded
 ts/1/netral/train/fix1-ts_2_m.218.wav|dari atalanta untuk kitch pemeriksaannya jadi dengan akurasi yang sangat tinggi
 ts/1/netral/train/fix1-ts_2_m.219.wav|dan WHO pun mengapresiasi penggunaan kit dari CDC
 pc/1/marah/train/fix1-pc_8_f.88.wav|gue kan tetap tenang bahwa gue tau kemaren gue sempet ngerasain gue stres gue berasa kayak hak
-pc/1/marah/train/fix1-pc_10.177.wav|nggak semuanya dirumah kalo keluar jam segini ada pidana segala macem kita akan 
+pc/1/marah/train/fix1-pc_10.177.wav|nggak semuanya dirumah kalo keluar jam segini ada pidana segala macem kita akan
 pc/1/marah/train/fix1-pc_1.221.wav|tapi yang kaya buat yang miskin tambah sulap sehingga tugas pemerintah disini bisa fokus untuk menerapkan
 ts/1/netral/train/fix1-ts_2_m.228.wav|di klik dimulai dari saat begitu di wuhan sudah mulai beredar seperti
 pc/1/netral/train/seto_27_.1.wav|diundang ke jerman keee kemarin taiwan mengajar selama satu bulan wajar jadi
 pc/1/netral/train/seto_21_1.wav|pasar induk kramat jati ke taman mini ke berbagai tempat untuk anak anak belajar bersama
-pc/1/netral/train/seto_26_.1.wav|nah sekarang ini, ini sekolahnya manusia katanya gitu
+pc/1/netral/train/seto_26_.1.wav|nah sekarang ini ini sekolahnya manusia katanya gitu
 ts/1/netral/train/fix1-ts_3_f.206.wav|konten tadi konten tadi satu lagi kurang karakter
 ts/1/netral/train/fix1-ts_3_m.99.wav|ya mental dia di urutan ke tujuh puluh dua dari tujuh puluh delapan
-pc/1/marah/train/fix1-pc_10.172.wav|pak pelan pelan digital sewa bisa harian dua puluh delapan ribu kita bisa 
+pc/1/marah/train/fix1-pc_10.172.wav|pak pelan pelan digital sewa bisa harian dua puluh delapan ribu kita bisa
 ts/1/netral/train/fix1-ts_3_m.100.wav|negara tetapi isi dari ujian nasional itu yang harus dievaluasi dilihat kembali
 ts/1/netral/train/fix1-ts_3_m.127.wav|bahwa ujian nasional itu akan diganti dengan asesmen kompetensi dan survey karakter
 ts/1/netral/train/fix1-ts_3_m.131.wav|sekoah yang mempunyai nilai seratus terhadap anak
@@ -238,8 +238,8 @@ ts/1/netral/train/fix1-ts_3_m.278.wav|itu nanti ditengah tahun misalnya kelas de
 ts/1/netral/train/fix1-ts_3_m.290.wav|ini untuk memberikan kesempatan pada siswa untuk berargumentasi
 ts/1/netral/train/fix1-ts_3_m.292.wav|dan tidak ada jawaban seratus persen benar seratus persen salah
 ts/1/netral/train/fix1-ts_4_f.30.wav|oke pak pak dedi itu tadi anda menunjukan koordinat jadi anda yakin anda itu ketika itu masih berada dalam wilayah kita yakin
-ts/1/netral/train/fix1-ts_4_f.50.wav|pak dedi sekarang lihat intensitasnya semakin banyak kapal kapal asing di perairan natuna 
-ts/1/netral/train/fix1-ts_4_f.68.wav|kenapa kira kira kalau pak dedi kenapa sekarang baru mulai berani lagi 
+ts/1/netral/train/fix1-ts_4_f.50.wav|pak dedi sekarang lihat intensitasnya semakin banyak kapal kapal asing di perairan natuna
+ts/1/netral/train/fix1-ts_4_f.68.wav|kenapa kira kira kalau pak dedi kenapa sekarang baru mulai berani lagi
 ts/1/netral/train/fix1-ts_4_f.86.wav|bagaimana sekarang respon tegas dan terukur versi bakamlah
 ts/1/netral/train/fix1-ts_4_f.180.wav|atau anda kesadaran sendiri atau terpaksa atau silahkan jujur malam ini
 ts/1/netral/train/fix1-ts_4_f.214.wav|yang harus ditangani tantangan baru kalau teman teman nelayan dari pantura datang ke natuna apa kekhawatiran anda pak
@@ -247,10 +247,10 @@ ts/1/netral/train/fix1-ts_4_f.222.wav|oke jadi ada ada ada ada persoalan itu yan
 ts/1/netral/train/fix1-ts_4_f.238.wav|kita akan lihat teman teman ini ini ada kita sudah menyiapkan perbandingan kekuatan kita lihat bersama sama
 ts/1/netral/train/fix1-ts_4_m.10.wav|memberikan jaminan kepada para nelayan kita untuk bisa bekerja dengan baik di
 ts/1/netral/train/fix1-ts_4_m.18.wav|maka kita harus melakukan tindakan tindakan
-pc/0/marah/test/fix0-pc_10.515.wav|iya karena nggak pernah ada yang serius untuk 
+pc/0/marah/test/fix0-pc_10.515.wav|iya karena nggak pernah ada yang serius untuk
 pc/0/marah/test/fix0-pc_10.536.wav|sebanyak sekarang
 pc/0/marah/test/fix0-pc_11.39.wav|mau bunuh gua ngitungin lantai
 pc/0/marah/test/fix0-pc_11.45.wav|karena jawaban psikopat itu dia ngitungin lantai
 pc/0/marah/test/fix0-pc_11.99.wav|ujungnya juga dan nggak penting juga
-pc/0/marah/test/fix0-pc_11.118.wav|aku nggak tau orang bisa bersikap apa gitu loh 
+pc/0/marah/test/fix0-pc_11.118.wav|aku nggak tau orang bisa bersikap apa gitu loh
 pc/0/marah/test/fix0-pc_11.148.wav|adalah cara kita mengangkat orang tersebut gitu loh
