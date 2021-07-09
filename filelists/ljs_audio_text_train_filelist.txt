@@ -708,7 +708,7 @@ pc/0/netral/train/fix0-pc_10.454.wav|malaysia kalo nggak salah gantungan kunci
 pc/0/netral/train/fix0-pc_10.467.wav|ya kan
 pc/0/netral/train/fix0-pc_10.469.wav|nanti kemungkinan nggak
 pc/0/netral/train/fix0-pc_10.470.wav|vaksin itu diharuskan kalau tidak ada tindak pidana gue jadi takut deh
-pc/0/netral/train/ fix0-pc_10.472.wav|nggak usah gitu
+pc/0/netral/train/fix0-pc_10.472.wav|nggak usah gitu
 pc/0/netral/train/fix0-pc_10.508.wav|lima sempurnanya adalah susu ya oke
 pc/0/netral/train/fix0-pc_10.510.wav|gula
 pc/0/netral/train/fix0-pc_10.511.wav|itu adalah pembunuh
@@ -967,7 +967,7 @@ pc/1/marah/train/fix1-pc_3_f.236.wav|panik juga tuh orang bikin kita juga nah se
 pc/1/marah/train/fix1-pc_3_f.313.wav|tuh apa lagi tuh yang saya baca saya agak agak 
 pc/1/marah/train/fix1-pc_3_f.327.wav|tenaga kesehatan nggak liburan loh di hotel tapi supaya bekerja bisa lebih nyaman karena deket 
 pc/1/marah/train/fix1-pc_4.63.wav|ya tentang pembukaan undang undang dasar empat lima padahal sudah ada undang undang karantina 
-pc/1/marah/train/ fix1-pc_4.89.wav|ya jangan jangan seperti dugaannya emang nggak ada uang kita sama sekali kalo nggak ada uang ngomong terus terang 
+pc/1/marah/train/fix1-pc_4.89.wav|ya jangan jangan seperti dugaannya emang nggak ada uang kita sama sekali kalo nggak ada uang ngomong terus terang 
 pc/1/marah/train/fix1-pc_4.103.wav|ada kejujuran tapi kalo tidak jujur ya 
 pc/1/marah/train/fix1-pc_4.107.wav|loh udah lewat pak prabowo udah duduk sebagai menhan saya yang menyarankan pak prabowo untuk menjadi menhan 
 pc/1/marah/train/fix1-pc_4.121.wav|emang ngapa orang mau bilang nyinyir karena mereka nggak bisa membantah kritikan saya 
@@ -1089,7 +1089,7 @@ pc/1/netral/train/fadlizon_22_.2.wav|levelnya manusia biasa mau jadi
 pc/1/netral/train/fadlizon_23_1.wav|karena apa yang kita sampaikan itu benar dan kebenaran itu menakutkan bagi mereka
 pc/1/netral/train/fadlizon_ts_2_.2.wav|mengambil suatu resiko itu karena kalau tidak mengambil resiko yaa tidak berbuat apa apa
 pc/1/netral/train/fadlizon_ts_3_.2.wav|bagaimana dia menjaga kedaulatan wilayah laut kita oke
-pc/1/netral/train/ fix1-pc_1.7.wav|dikonfirm dulu kemenkes karena menkes itu yang berkompeten untuk mengatur
+pc/1/netral/train/fix1-pc_1.7.wav|dikonfirm dulu kemenkes karena menkes itu yang berkompeten untuk mengatur
 pc/1/netral/train/fix1-pc_1.14.wav|tulus sih karena yang ngomong bukan gua juga tugas lu adalah yaudah lu tunjuk PR
 pc/1/netral/train/fix1-pc_1.23.wav|belanda dan jerman lewat dokter jarir siapa tau dokter jarir dan prof iwan dan
 pc/1/netral/train/fix1-pc_1.24.wav|aku tolak karena aku lebih pada waktu itu pengen ke IGD
@@ -1350,7 +1350,7 @@ pc/1/senang/train/fix1marchella_10_1.wav|nggak lah modal nikah kita cari yang la
 pc/1/senang/train/fix1pandji_7_.2.wav|gua rasa sby juga pasti nyimeng sob eh jadi judul bro
 pc/1/senang/train/fix1pandji_15_.2.wav|hahaha kecuali istri gua ama anak anak gue ye
 pc/1/senang/train/fix1tirta_10_.3.wav|nah pencegahan itu edukasi harus santun itu
-pc/1/senang/test/ fix1-pc_13_f.338.wav|aku juga koleksi mainan mas, akutu aku suka banget astro boy
+pc/1/senang/test/fix1-pc_13_f.338.wav|aku juga koleksi mainan mas, akutu aku suka banget astro boy
 pc/1/senang/test/seto_12_.2.wav|ada satpam ada pak lurah juga bahkan begitu
 pc/1/senang/test/seto_24_.2.wav|jadi biarkanlah anak anak ibarat aneka warna bunga di taman sari keluarga
 pc/1/senang/test/seto_25_.1.wav|mawar melati semuanya indah
@@ -1858,8 +1858,8 @@ ts/1/netral/test/fahrihamzah_7_.2.wav|KPK itu harus dijaga mohon maaf kut angkut
 ts/1/netral/test/fix1-ts_1_m.350.wav|Bagaimana beragam ragam nggak di PERPPU kan begitu jadi
 ts/1/netral/test/fix1-ts_1_m.400.wav|Mungkin perlu kita geser area perjuangan 
 ts/1/netral/test/fix1-ts_1_m.401.wav|Untuk memperjuangkan teman teman mahasiswa ini kita berkelahi di kampus 
-ts/1/netral/test/ fix1-ts_2_m.252.wav|Indonesia berada di suatu dunia yang sudah melakukan persiapan persiapan
-ts/1/netral/test/ fix1-ts_2_m.253.wav|Setelah dua ribu dua dua ribu tiga ya SARS
+ts/1/netral/test/fix1-ts_2_m.252.wav|Indonesia berada di suatu dunia yang sudah melakukan persiapan persiapan
+ts/1/netral/test/fix1-ts_2_m.253.wav|Setelah dua ribu dua dua ribu tiga ya SARS
 ts/1/netral/test/fix1-ts_3_m.305.wav|Dan Insyaa Allah AC sedang mengembangkan
 ts/1/netral/test/fix1-ts_5_m.439.wav|PAL itu kegentingan yang memaksa sebagaimana divaksinkan oleh Mahkamah Konstitusi
 ts/1/netral/test/moeldoko4_3_1.wav|Jauhnya jarak antar mereka antar koskat kita dengan mereka

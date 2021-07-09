@@ -176,14 +176,14 @@ ts/1/netral/test/feriamsari_6_.2.wav|Ada baiknya DPR juga mempertimbangkan memba
 ts/1/netral/test/fix1-ts_2_m.236.wav|Jadi memang kita menyiapkan seratus rumah sakit yang dulu sudah disiapkan untuk
 ts/1/netral/test/fix1-ts_2_m.238.wav|Nah disitu memang ada yang paling penting adalah komponen tempat tempat isolasi
 ts/1/netral/test/fix1-ts_2_m.243.wav|Sendiri ya paling penting ya imunitas tubuhnya harus dijaga
-ts/1/netral/test/ fix1-ts_3_m.302.wav|Miliknya guru milik sekolah silahkan diluluskan silahkan dibuat soalnya
+ts/1/netral/test/fix1-ts_3_m.302.wav|Miliknya guru milik sekolah silahkan diluluskan silahkan dibuat soalnya
 ts/1/netral/test/fix1-ts_3_m.303.wav|Dan guru harus mampu membuat soal nah ini berbeda 
 ts/1/netral/test/fix1-ts_3_m.309.wav|Mapel pilihan ganda itu gampang sekali di bimbel
 ts/1/netral/test/fix1-ts_4_m.480.wav|Berikutnya bagaimana pembedahan para nelayan ini untuk mengisi kekosongan
 ts/1/netral/test/fix1-ts_4_m.482.wav|Berikutnya yang ketiga adalah eksploitasi sumber daya alam yang ada disana untuk segera dilakukan 
 ts/1/netral/test/fix1-ts_5_m.405.wav|Yang sekarang,misalnya kesannya tidak ingin ada PERPU misalnya
 ts/1/netral/test/fix1-ts_5_m.431.wav|Pendapat pendapat seperti layaknya ahli yang saya katakan ini bukan ahli
-ts/1/netral/test/ fix1-ts_5_m.434.wav|Ya saya katakan tadi revisi undang undang ini belum dinomorkan belum diundang undangkan
+ts/1/netral/test/fix1-ts_5_m.434.wav|Ya saya katakan tadi revisi undang undang ini belum dinomorkan belum diundang undangkan
 ts/1/netral/test/fix1-ts_5_m.435.wav|Nikmatin ya sampai terbukti memang ada hal ihwal keadaan memaksanya hadir
 ts/1/netral/test/fix1-ts_5_m.476.wav|Tapi saya ingin pertama untuk mengoreksi apa yang disampaikan  
 ts/1/netral/test/fix1-ts_5_m.485.wav|Kesalahan kesalahan dalam pembentukan revisi undang-undang ini, Ingat 
