@@ -68,7 +68,7 @@ pc/1/sedih/train/fix1-pc_2.20.wav|yang kita berhadapan dengan informasi yang min
 pc/1/sedih/train/fix1-pc_2.29.wav|dan kami lakukan selama ini percaya pada sains
 pc/1/sedih/train/fix1-pc_2.47.wav|itu pandemik global juga itu kira kira dua tahun
 pc/1/sedih/train/fix1-pc_2.52.wav|tahun itu sembilan belas delapan belas sembilan belas dua puluh 
-pc/1/sedih/train/ fix1-pc_2.63.wav|kita harus bisa mencegah dan pada waktu itu
+pc/1/sedih/train/fix1-pc_2.63.wav|kita harus bisa mencegah dan pada waktu itu
 pc/1/sedih/train/fix1-pc_2.88.wav|itu itu dilema yang kita hadapi jadi begini
 pc/1/sedih/train/fix1-pc_2.93.wav|ya pada mereka kita akan siapkan dan sudah dalam proses
 pc/1/sedih/train/fix1-pc_2.142.wav|saya sampai kita sampai pelajari serius kok kejadian di sana itu
@@ -166,7 +166,7 @@ ts/1/sedih/train/haris_4_.2.wav|kita lihat juga wartawan yang tidak boleh melipu
 ts/1/sedih/train/terawan_6_.2.wav|daratan cina yah natuna ndak ada lagi kalau ndak kita akan kemana
 ts/1/sedih/train/terawan_7_.1.wav|kalau nanti komplek militernya di halim juga malah bermasalah
 ts/1/sedih/train/emilsalim_3_.1.wav|sudah puluhan tahun beberapa panitia diburu gagal
-s/1/senang/fix1-ts_2_f.13.wav|alhamdulillah jadi persisnya kegiatan yang dilakukan sehari hari bisa digambarkan ke kami pak yudo
+ts/1/senang/fix1-ts_2_f.13.wav|alhamdulillah jadi persisnya kegiatan yang dilakukan sehari hari bisa digambarkan ke kami pak yudo
 ts/1/senang/royyan_4_1.wav|banyaklah yang datang dari tasik ada yang dari bandung kami dari bandung ada yang bahkan dari luar pulau jawa dan disitu
 ts/1/netral/test/arsulsani_5_.2.wav|Pak Agus Pak Laode Pak Saut Pak Alex Marwata
 ts/1/netral/test/arsulsani_6_1.wav|Pemerintah dan DPR sepakat untuk menunda bu
