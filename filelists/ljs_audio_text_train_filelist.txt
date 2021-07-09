@@ -127,7 +127,7 @@ pc/0/netral/test/fix0-pc_13_f.87.wav|guri marantika
 pc/0/netral/test/fix0-pc_13_f.92.wav|ya aku kan tau dari riset
 pc/0/netral/test/fix0-pc_13_f.110.wav|hehehe lagi riset
 pc/0/netral/test/fix0-pc_13_f.111.wav|okeh
-pc/0/netral/test/fix0-pc_13_f.114wav|trus ada cheatnya gitu ngak
+pc/0/netral/test/fix0-pc_13_f.114.wav|trus ada cheatnya gitu ngak
 pc/0/netral/test/fix0-pc_13_f.115.wav|kalau yang pakai sendok itu gimana
 pc/0/netral/test/fix0-pc_13_f.121.wav|taun gue tuh taun berapa mas
 pc/0/netral/test/fix0-pc_13_f.122.wav|ooh yah yah yah sih
@@ -1265,7 +1265,7 @@ ts/0/marah/train/fix0-ts_5_m.78.wav|mereka semua yang malah lebih terancam denga
 pc/1/netral/train/seto_31_.1.wav|apa yaa tidak semahal yang kelas sama tapi sekolah formal
 pc/1/netral/train/seto_32_.1.wav|tempat kami yang kami sediakan yang sekolah juga namanya juga sekolah 
 pc/1/netral/train/seto_32_.2.wav|tapi sekolah yang non formal istilahnya, semacam
-pc/1/netral/train/seto_33_.1.wav| yaa karena kelompoknya kecil sekelas itu paling maksimal paling banyak sepuluh anak
+pc/1/netral/train/seto_33_.1.wav|yaa karena kelompoknya kecil sekelas itu paling maksimal paling banyak sepuluh anak
 pc/1/sedih/test/fix1-pc_9.188.wav|termasuk juga untuk undang undang ite kalau gua nggak suka itu dipegang untuk mukul orang gua nggak akan pakai itu untuk
 pc/1/sedih/test/fix1-pc_10.91.wav|tempat gua bertumbuh kecil dari sana sampai remaja dan besar, nyokap gua cerita keadaan disana keadaan disana udah
 pc/1/sedih/test/fix1-pc_10.100.wav|nggak ada duit untuk beli makan bukan untuk tempat tinggal beli makan aja nggak ada kita bisa tidur di jalanan tapi kalau nggak bisa beli makan
@@ -1344,7 +1344,7 @@ pc/1/sedih/train/fix1-pc_9.114.wav|selalu dianggap subjektif di mata orang gitu
 pc/1/sedih/train/fix1-pc_9.121.wav|yaaa yaa tapi masalahnya bukan orang kita doang bro
 pc/1/senang/train/fix1-pc_9.1.wav|nah tapi gara gara kucing kalo ada satu hal yang berefek  pada gua gua jadi nggak mikirin lagi nulis job
 pc/1/senang/train/fix1-pc_13_f.88.wav|nggak apa apa yang maksudnya jangan dibuat buat
-pc/1/senang/train/fix1luna_6_.1.wav| hahaha
+pc/1/senang/train/fix1luna_6_.1.wav|hahaha
 pc/1/senang/train/fix1marchella_4_.1.wav|hahahah kebetulan nggak tapi
 pc/1/senang/train/fix1marchella_10_1.wav|nggak lah modal nikah kita cari yang lain
 pc/1/senang/train/fix1pandji_7_.2.wav|gua rasa sby juga pasti nyimeng sob eh jadi judul bro
@@ -1679,7 +1679,7 @@ ts/0/netral/train/fix0-ts_4_m.49.wav|ada yang lima puluh ton delapan puluh ton a
 ts/0/netral/train/fix0-ts_4_m.50.wav|kalau china tu kapal besi
 ts/0/netral/train/fix0-ts_4_m.52.wav|itu waktu itu saya kan
 ts/0/netral/train/fix0-ts_4_m.53.wav|udah sampai di lintang enam
-ts/0/netral/train/fix0-ts_4_m.54.wav| ke kejadiannya jam enam pagi
+ts/0/netral/train/fix0-ts_4_m.54.wav|ke kejadiannya jam enam pagi
 ts/0/netral/train/fix0-ts_4_m.61.wav|nah sudah diiringi kapal saya 
 ts/0/netral/train/fix0-ts_4_m.62.wav|udah diiringi sampai
 ts/0/netral/train/fix0-ts_4_m.63.wav|ke darat lah gitu ampe ke ibaratnya dia
@@ -1865,7 +1865,7 @@ ts/1/netral/test/fix1-ts_5_m.439.wav|PAL itu kegentingan yang memaksa sebagaiman
 ts/1/netral/test/moeldoko4_3_1.wav|Jauhnya jarak antar mereka antar koskat kita dengan mereka
 ts/1/netral/test/royyan_5_.3.wav|Oke dari semua masa tenang kita sampaikan aspirasi kita
 ts/1/netral/test/sudewo_7_.1.wav|Domisi sepuluh ya kan, saya berpedomannya dari apa yang dilak
-ts/1/netral/test/syahrizal_11_.2.wav| Hoax itu berisi terkait dengan ehh 
+ts/1/netral/test/syahrizal_11_.2.wav|Hoax itu berisi terkait dengan ehh 
 ts/1/netral/test/terawan_5_.1.wav|Udah nggak bisa kita evakuasi karena pihak AE
 ts/1/netral/test/toto_6_.2.wav|Bercermin sehingga hasil ini untuk perbaikan paling ti
 ts/1/netral/test/toto_7_.1.wav|Repotnya detail di setiap sekolah itu apa yang perlu diperbaiki apa yang sudah baik
