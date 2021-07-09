@@ -937,7 +937,7 @@ pc/1/marah/test/younglex_11_1.wav|banyak yang nggak punya apa apa besok hari ini
 pc/1/marah/test/younglex_12_.2.wav|susah juga ya lama lama gimana nih om kita om
 pc/1/marah/test/younglex_13_.1.wav|gue mikirin nih orang kapan istirahatnya kapan liburannya 
 pc/1/marah/test/younglex_13_.2.wav|kapan mainnya kapan nongkrongnya kalo semuanya selalu kerja kerja kerja kerja gitu 
-pc/1/marah/test\yurianto_21_.1.wav|yak kita melihat bahwa ini masalahnya kompleks ya ini bukan masalah sakit 
+pc/1/marah/test/yurianto_21_.1.wav|yak kita melihat bahwa ini masalahnya kompleks ya ini bukan masalah sakit 
 pc/1/marah/train/anies_2_.1.wav|jadi kan bukan karena kelakuan karena begini justru orang yang 
 pc/1/marah/train/anies_4_1.wav|transparasi yang kedua kemudian lakukan masif pengehentian itu 
 pc/1/marah/train/anies_5_.4.wav|perekonomian yang tumbuh memberikan pajak kepada kita sebagai pemasukan 
@@ -1791,7 +1791,7 @@ ts/1/marah/train/ahmadtaufiq_1_1.wav|dia laporan saya ketemu post gata indonesia
 ts/1/marah/train/arsulsani_1_.1.wav|pelaku berjalan kalau ternyata bener KPK nya lemah 
 ts/1/marah/train/arsulsani_1_.2.wav|menjadi impoten tapi itu penyebabnya undang-undang
 ts/1/marah/train/arsulsani_3_.2.wav|dukungan legislasi apa yang diperlukan
-ts/1/marah/train/arteria_4_.1.wav |ya prof biar prof juga jelas prof kita bicara hukum
+ts/1/marah/train/arteria_4_.1.wav|ya prof biar prof juga jelas prof kita bicara hukum
 ts/1/marah/train/arteria_4_.2.wav|sam ahli hukum bicara hukum pidana korupsi sama ahli pidana korupsi 
 ts/1/marah/train/arteria_8_.2.wav|paksakan sebagai kajian ilmiah yang menjadikan bahan untuk pertimbangan 
 ts/1/marah/train/arteria_9_1.wav|jokowi adalah presiden bukan hasil survei bukan presiden survei
