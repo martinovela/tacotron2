@@ -999,7 +999,7 @@ pc/1/marah/train/pandji_11_1.wav|nggak boleh kayak gitu karena nanti si ini ters
 pc/1/marah/train/pandji_12_1.wav|menurut gue jadi masalah kayak yang gue menghina lu lu pikir nggak ada yang tersinggung bukan menghina maksudnya gue bercandain lu rosting lu 
 pc/1/marah/train/pandji_13_1.wav|banyak yang bilang lu siapa sih pandji bisa ngomongin deddy kayak gitu 
 pc/1/marah/train//pandji_16_1.wav|menurut gue iya menurut gue sosmed pada akhirnya memperkuat identitas dan alasan mengapa sekarang politik 
-pc/1/marah/test/tirta_14_.2wav|post edukasi arti yang pertama kalo edukasi adalah
+pc/1/marah/test/tirta_14_.wav|post edukasi arti yang pertama kalo edukasi adalah
 pc/1/netral/train/fix1-pc_13_f.360.wav|setuju aku aku setuju jadi generasi sembilan puluhan itu itu
 pc/1/netral/train/pandji_7_.1.wav|gimana pendapat mas panji terus gua bilang ya iyalah banyak orang yang pernah nyimeng waktu muda terus gua liat ke samping teman gue
 pc/1/netral/test/seto_33_.3.wav|panggilnya juga bukan pak guru atau bu guru
