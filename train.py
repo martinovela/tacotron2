@@ -253,7 +253,7 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
                   
             iteration += 1
 
-        if (hparams.epochs-1) = epoch:
+        if (hparams.epochs-1) == epoch:
             validate(model, criterion, valset, iteration,
                      hparams.batch_size, n_gpus, collate_fn, logger,
                      hparams.distributed_run, rank)
