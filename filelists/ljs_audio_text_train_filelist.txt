@@ -1,4 +1,4 @@
-pc/0/marah/test/’fix0-pc_10.278.wav|gua harus ke
+pc/0/marah/test/fix0-pc_10.278.wav|gua harus ke
 pc/0/marah/test/fix0-pc_10.280.wav|kadang tolol gua buka buka
 pc/0/marah/test/fix0-pc_10.299.wav|gua gua
 pc/0/marah/test/fix0-pc_10.307.wav|gua tidur jam empat pagi
@@ -1077,7 +1077,7 @@ pc/1/netral/train/fadlizon_6_1.wav|terjadi perdebatan tentang konstituante tenta
 pc/1/netral/train/fadlizon_7_.1.wav|rakyat indonesia dan seluruh tumpah darah indonesia itu yang paling penting
 pc/1/netral/train/fadlizon_7_.2.wav|ibaratnya ya undang undang itu operatif dari
 pc/1/netral/train/fadlizon_8_.1.wav|ya memang ada dilema ya tapi kalau perusahaan itu
-|pc/1/netral/train/fadlizon_10_.3.wav|orang orang super kaya konglomerat minta komitmen mereka dukungan mereka
+pc/1/netral/train/fadlizon_10_.3.wav|orang orang super kaya konglomerat minta komitmen mereka dukungan mereka
 pc/1/netral/train/fadlizon_15_.3.wav|disampaikan oleh orang yang mungkin kurang tepat posisinya
 pc/1/netral/train/fadlizon_16_.2.wav|mau oposisi dua duanya bagus saya pribadi
 pc/1/netral/train/fadlizon_16_.3.wav|sebenarnya posisi oposisi juga penting dalam demokrasi
@@ -1621,7 +1621,6 @@ ts/0/netral/train/fix0-ts_3_m.248.wav|ingin menghitung lima puluh ditambah dua p
 ts/0/netral/train/fix0-ts_3_m.274.wav|di akhir jenjang
 ts/0/netral/train/fix0-ts_3_m.275.wav|kelas sembilan kelas dua belas kelas enam bahkan dulunya
 ts/0/netral/train/fix0-ts_3_m.276.wav|sekarang sudah nggak
-ts/0/netral/train/V|kelas sepuluh itu ya sehingga
 ts/0/netral/train/fix0-ts_3_m.285.wav|mbak sofia juga mengkritik
 ts/0/netral/train/fix0-ts_3_m.304.wav|ini adalah dibuat oleh pusat
 ts/0/netral/train/fix0-ts_4_f.15.wav|pak muldoko kalo bicara skala kemarahan
@@ -1914,7 +1913,7 @@ pc/0/senang/train/fix0-pc_8_m.24.wav|anti virus hehe lu kira lu laptop
 pc/0/senang/train/fix0-pc_8_f.355.wav|hehehe
 pc/0/sedih/train/fix0-pc_5.185.wav|apa lagi kalo di lockdown
 pc/0/sedih/train/fix0-pc_2.135.wav|ini ada fasenya
-ts/1/netral/train/fix1-ts_1_m.349.wavhasil revisi undang undang KPK ini belum masuk dalam lembaran negara belum ada nomornya
+ts/1/netral/train/fix1-ts_1_m.349.wav|hasil revisi undang undang KPK ini belum masuk dalam lembaran negara belum ada nomornya
 pc/0/senang/train/fix0-pc_8_f.217.wav|nggak bisa pas pas si
 ts/1/netral/train/fix1-ts_2_f.63.wav|oke saya nanti akan bertanya jadi anda persisnya ada dimana ini posisi
 ts/1/netral/train/fix1-ts_2_f.198.wav|sekarang ini sudah ter otomatis mereka ndak bisa masuk
@@ -1994,7 +1993,6 @@ ts/1/netral/train/sudewo_5_.2.wav|meskipun demikian pemerintah itu merespon meng
 ts/1/netral/train/sudewo_5_.3.wav|kesetresan anak anak bagaimana dicarikan jalan keluar
 ts/1/netral/train/sudewo_5_.4.wav|punya semangat ia kerja semangat untuk belajar
 ts/1/netral/train/sudewo_5_.5.wav|tetapi ujian nasional ini tetap diperlakukan sebagai standar penilaian secara nasional
-ts/1/netral/train/isinya ya saya sepakat dengan mbak retno sepakat dengan mbak menteri
 pc/0/netral/train/fix0-pc_8_f.105.wav|karena kadang-kadang gua selalu bilang kayak wipin
 ts/1/netral/train/supratman_1_.2.wav|undang undang ini dibahas di DPR kan ada pernyataan tu
 ts/1/netral/train/supratman_5_.1.wav|kita sebahagian besar isi materi itu
