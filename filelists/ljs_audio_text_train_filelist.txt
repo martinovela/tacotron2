@@ -219,7 +219,7 @@ pc/0/netral/test/fix0-pc_14.63.wav|kalau
 pc/0/netral/test/fix0-pc_14.67.wav|ada ruddy habibie
 pc/0/netral/test/fix0-pc_14.68.wav|bisa ruddy hartono
 pc/0/netral/test/fix0-pc_14.75.wav|pendidikan
-pc/0/netral/test/fix0-pc_14.76wav|informal dulu
+pc/0/netral/test/fix0-pc_14.76.wav|informal dulu
 pc/0/netral/test/fix0-pc_14.77.wav|dan non formal kemudian
 pc/0/netral/test/fix0-pc_14.79.wav|nggak mau sekolah tinggal enam bulan ujian smp
 pc/0/netral/test/fix0-pc_14.82.wav|lalu dia bilang
@@ -317,7 +317,6 @@ pc/0/netral/train/fix0-pc_2.139.wav|mobilitas biasa
 pc/0/netral/train/fix0-pc_2.149.wav|sampe ada orang masuk lagi kan
 pc/0/netral/train/fix0-pc_2.154.wav|okeh
 pc/0/netral/train/fix0-pc_2.157.wav|tutup dulu
-pc/0/netral/train/fix0-pc_2163..wav|kita di jakarta ini
 pc/0/netral/train/fix0-pc_2.164.wav|sedang
 pc/0/netral/train/fix0-pc_2.166.wav|PSL tiga
 pc/0/netral/train/fix0-pc_2.172.wav|itu itu harus dikerjakan
@@ -931,7 +930,6 @@ pc/1/marah/test/tirta_29_.1.wav|bukan berarti ngejek pemerintah nggak tapi ini m
 pc/1/marah/test/younglex_1_.1.wav|coba lo cek sekarang hari ini berapa orang mati gara gara paru paru berapa orang meninggal gara gara swab
 pc/1/marah/test/younglex_2_1.wav|harusnya bulan maret gue syuting vidio klip sama gisel karena udah udah recording bareng lagunya udah dimixing
 pc/1/marah/test/younglex_3_.1.wav|di negara yang belum pernah terjadi aja kerusuhan kemungkinan terjadinya kemiskinan dan kelaparan
-pc/1/marah/test/younglex_3_2.wav|sementara di negara kita kita tau tahun sembilan delapan pernah terjadi kerusuhan
 pc/1/marah/test/younglex_9_1.wav|tadinya lo akan nongkrong keluar mau beli makan makan berdua sama istri lo dan ama pacar lo jadi online
 pc/1/marah/test/younglex_11_1.wav|banyak yang nggak punya apa apa besok hari ini nggak tau mau ngapain dia nyari duit dimana banyak banget om
 pc/1/marah/test/younglex_12_.2.wav|susah juga ya lama lama gimana nih om kita om
@@ -942,7 +940,6 @@ pc/1/marah/train/anies_2_.1.wav|jadi kan bukan karena kelakuan karena begini jus
 pc/1/marah/train/anies_4_1.wav|transparasi yang kedua kemudian lakukan masif pengehentian itu
 pc/1/marah/train/anies_5_.4.wav|perekonomian yang tumbuh memberikan pajak kepada kita sebagai pemasukan
 pc/1/marah/train/erlina_5_.3.wav|harus tetep mewaspadai nih saya petugas kesehatan dan teman teman ini nih
-pc/1/marah/train/erlina_9_2.wav|aktivitas yang memungkinkan masyarakat saling menularkan ini tidak kita stop
 pc/1/marah/train/erlina_23_.2.wav|dan swab hasilnya lama selama hasil swab itu saya di rumah anak saya empat
 pc/1/marah/train/fadlizon_1_.6.wav|saya termasuk yang ikut mengingatkan itu dari bulan januari
 pc/1/marah/train/fadlizon_2_.5.wav|kita lihat negara tetangga kita seperti singapore gitu ya secara serius bahkan dia punya stadiumnya
@@ -997,8 +994,6 @@ pc/1/marah/train/fix1-pc_10.383.wav|kalo gue sih nggak bisa yah nggak ngerti lag
 pc/1/marah/train/luna_4_.1.wav|semakin banyak orang yang kena kapasitas rumah sakit
 pc/1/marah/train/pandji_11_1.wav|nggak boleh kayak gitu karena nanti si ini tersinggung
 pc/1/marah/train/pandji_12_1.wav|menurut gue jadi masalah kayak yang gue menghina lu lu pikir nggak ada yang tersinggung bukan menghina maksudnya gue bercandain lu rosting lu
-pc/1/marah/train/pandji_13_1.wav|banyak yang bilang lu siapa sih pandji bisa ngomongin deddy kayak gitu
-pc/1/marah/train//pandji_16_1.wav|menurut gue iya menurut gue sosmed pada akhirnya memperkuat identitas dan alasan mengapa sekarang politik
 pc/1/marah/test/tirta_14_.wav|post edukasi arti yang pertama kalo edukasi adalah
 pc/1/netral/train/fix1-pc_13_f.360.wav|setuju aku aku setuju jadi generasi sembilan puluhan itu itu
 pc/1/netral/train/pandji_7_.1.wav|gimana pendapat mas panji terus gua bilang ya iyalah banyak orang yang pernah nyimeng waktu muda terus gua liat ke samping teman gue
@@ -1320,7 +1315,6 @@ pc/1/sedih/train/erlina_25_.1.wav|jangan main dulu deh kasihan juga perihatin sa
 pc/1/sedih/train/erlina_26_.1.wav|tapi kita juga petugas kesehatan ada rasa khawatir juga
 pc/1/sedih/train/fix1-pc_5.92.wav|saya malah melihat bukan deret ukur di eksponensial istilahnya lah ya
 pc/1/senang/train/marchella_2_.2.wav|Kan selain mencegah kehamilan terus
-pc/1/senang/train/fix1pandji_4_.1.wav|boy tu taruhan saja dia nggak tahu ded kasihan gua ngeliatnya tu nggak
 pc/1/sedih/train/fadlizon_1_.1.wav|pemerintahannya seserius apa
 pc/1/sedih/train/fix1-pc_4.156.wav|nah kita nggak tau jumlah korban sekarang ini memang sesuai dengan jumlah korban yang ada
 pc/1/sedih/train/fix1-pc_4.174.wav|bahkan kita sekarang undang undang kita hanya mewajibkan lima persen
@@ -1344,12 +1338,6 @@ pc/1/sedih/train/fix1-pc_9.114.wav|selalu dianggap subjektif di mata orang gitu
 pc/1/sedih/train/fix1-pc_9.121.wav|yaaa yaa tapi masalahnya bukan orang kita doang bro
 pc/1/senang/train/fix1-pc_9.1.wav|nah tapi gara gara kucing kalo ada satu hal yang berefek  pada gua gua jadi nggak mikirin lagi nulis job
 pc/1/senang/train/fix1-pc_13_f.88.wav|nggak apa apa yang maksudnya jangan dibuat buat
-pc/1/senang/train/fix1luna_6_.1.wav|hahaha
-pc/1/senang/train/fix1marchella_4_.1.wav|hahahah kebetulan nggak tapi
-pc/1/senang/train/fix1marchella_10_1.wav|nggak lah modal nikah kita cari yang lain
-pc/1/senang/train/fix1pandji_7_.2.wav|gua rasa sby juga pasti nyimeng sob eh jadi judul bro
-pc/1/senang/train/fix1pandji_15_.2.wav|hahaha kecuali istri gua ama anak anak gue ye
-pc/1/senang/train/fix1tirta_10_.3.wav|nah pencegahan itu edukasi harus santun itu
 pc/1/senang/test/fix1-pc_13_f.338.wav|aku juga koleksi mainan mas akutu aku suka banget astro boy
 pc/1/senang/test/seto_12_.2.wav|ada satpam ada pak lurah juga bahkan begitu
 pc/1/senang/test/seto_24_.2.wav|jadi biarkanlah anak anak ibarat aneka warna bunga di taman sari keluarga
@@ -1879,7 +1867,6 @@ ts/1/netral/train/arteria_1_1.wav|di depan mata kita katakan bahwa perpu itu ada
 ts/1/netral/train/arteria_2_1.wav|apakah sekarang penegakan hukum yang dilaksanakan kpk musnah
 ts/1/netral/train/arteria_3_1.wav|yang saya ingin katakan itu pelemahanya itu dimana ya
 ts/1/netral/train/arteria_6_.1.wav|jadi relevansinya adalah makala mahkamah mengatakan
-ts/1/netral/trainarteria_6_.2.wav|ya keputusannya seperti apa perpu nya valid perpu nya legal dan tidak
 ts/1/netral/train/fahrihamzah_1_1.wav|kita punya ide itu belum tentu jadi karena uangnya itu dipegang pemerintah beda dengan
 ts/1/netral/train/fahrihamzah_2_.1.wav|di depan dpr lalu diatur bagaimana mekanisme
 ts/1/netral/train/fahrihamzah_2_.2.wav|supaya nanti kalau ada demo itu indikator kalau banyak demo itu banyak masalah
