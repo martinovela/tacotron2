@@ -1220,8 +1220,8 @@ ts/0/netral/train/fix0-ts_4_m.145.wav|menghadapi eskalasi
 ts/0/netral/train/fix0-ts_1_m.232.wav|berbeda dengan ee ket
 ts/0/netral/train/fix0-ts_2_m.112.wav|kita lihat faktanya saja ya bahwa selain korona virus
 ts/0/netral/train/fix0-ts_4_f.22.wav|bukan saya lagi mancing
-ts/0/netral/train/ts/0/-ts_4_m.4.wav|dijalankan disetiri dengan sebaik baik
-ts/0/netral/train/ts/0/-ts_4_m.12.wav|ada yang tugas negara itu ya
+ts/0/netral/train/fix0-ts_4_m.4.wav|dijalankan disetiri dengan sebaik baik
+ts/0/netral/train/fix0-ts_4_m.12.wav|ada yang tugas negara itu ya
 ts/0/netral/train/fix0-ts_4_m.14.wav|kan pengamanan
 pc/1/netral/train/fix1-pc_10.69.wav|aduh susah juga deh jawabnya kalo iya mudah mudahan jangan karena takut juga kok om
 pc/1/netral/train/fix1-pc_10.107.wav|dimana pram di kelapa gading yaudah ada jambret segala macem gua mikirnya karena kejauhan gua
