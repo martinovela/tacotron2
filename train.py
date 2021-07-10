@@ -250,8 +250,18 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
                         output_directory, "checkpoint_{}".format(iteration))
                     save_checkpoint(model, optimizer, learning_rate, iteration,
                                     checkpoint_path)
-
+                  
             iteration += 1
+
+        if (hparams.epochs-1) = epoch:
+            validate(model, criterion, valset, iteration,
+                     hparams.batch_size, n_gpus, collate_fn, logger,
+                     hparams.distributed_run, rank)
+            if rank == 0:
+                checkpoint_path = os.path.join(
+                    output_directory, "checkpoint_{}".format(iteration))
+                save_checkpoint(model, optimizer, learning_rate, iteration,
+                                checkpoint_path)
 
 
 if __name__ == '__main__':
