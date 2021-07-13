@@ -101,11 +101,11 @@ def load_checkpoint(checkpoint_path, model, optimizer):
     print("Loading checkpoint '{}'".format(checkpoint_path))
     checkpoint_dict = torch.load(checkpoint_path, map_location='cpu')
     model.load_state_dict(checkpoint_dict['state_dict'])
-    optimizer.load_state_dict(checkpoint_dict['optimizer'])
-    learning_rate = checkpoint_dict['learning_rate']
-    iteration = checkpoint_dict['iteration']
-    print("Loaded checkpoint '{}' from iteration {}" .format(
-        checkpoint_path, iteration))
+    # optimizer.load_state_dict(checkpoint_dict['optimizer'])
+    # learning_rate = checkpoint_dict['learning_rate']
+    # iteration = checkpoint_dict['iteration']
+    print("Loaded checkpoint '{}' from iteration 1".format(
+        checkpoint_path))
     return model, optimizer, learning_rate, iteration
 
 
@@ -193,7 +193,7 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
             model = warm_start_model(
                 checkpoint_path, model, hparams.ignore_layers)
         else:
-            model, optimizer, _learning_rate, iteration = load_checkpoint(
+            model, optimizer = load_checkpoint(
                 checkpoint_path, model, optimizer)
             if hparams.use_saved_learning_rate:
                 learning_rate = _learning_rate
