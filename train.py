@@ -106,7 +106,7 @@ def load_checkpoint(checkpoint_path, model, optimizer):
     # iteration = checkpoint_dict['iteration']
     print("Loaded checkpoint '{}' from iteration 1".format(
         checkpoint_path))
-    return model, optimizer, learning_rate, iteration
+    return model, optimizer
 
 
 def save_checkpoint(model, optimizer, learning_rate, iteration, filepath):
@@ -198,6 +198,7 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
             if hparams.use_saved_learning_rate:
                 learning_rate = _learning_rate
             iteration += 1  # next iteration is iteration + 1
+            print('ini len train loader', len(train_loader))
             epoch_offset = max(0, int(iteration / len(train_loader)))
     print(len(train_loader))
     model.train()

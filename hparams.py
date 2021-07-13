@@ -25,10 +25,10 @@ def create_hparams(hparams_string=None, verbose=False):
         # Data Parameters             #
         ################################
         load_mel_from_disk=False,
-        training_files='filelists/train_luna.txt',
-        validation_files='filelists/test_luna.txt',
-        # training_files='filelists/train_anies.txt',
-        # validation_files='filelists/test_anies.txt',
+        # training_files='filelists/train_luna.txt',
+        # validation_files='filelists/test_luna.txt',
+        training_files='filelists/train_anies.txt',
+        validation_files='filelists/val_anies.txt',
         text_cleaners=['basic_cleaners'],
 
         ################################
