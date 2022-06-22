@@ -2,7 +2,7 @@ matplotlib==2.1.0
 tensorboard==1.14.0
 tensorflow==1.14.0
 tensorboardX==1.8
-numpy==1.14.5
+numpy==1.22.0
 inflect==0.2.5
 librosa==0.6.0
 scipy==1.0.0
